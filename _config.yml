@@ -30,16 +30,16 @@ social:
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key:
+google_analytics_key: UA-129669974-1
 # Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
-yandex_metrica:
+yandex_metrica: 51264289
 
 
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus:
-comments: false
+disqus: seanquinlan-github-io
+comments: true
 
 permalink: /:year/:month/:title
 
